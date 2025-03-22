@@ -88,13 +88,13 @@ The model demonstrates strong performance in estimating basket sizes within a sm
 
 Make sure you have installed the required dependencies:
 
-pip install -r requirements.txt
+```bash pip install -r requirements.txt ```
 
 ℹ️ Note: You may need to adjust the file paths inside the script of Dataroid__Pipeline.py (main() function) to match your local project structure if the dataset is stored in a different location.
 
 Then run the full pipeline using the command below:
 
-python Dataroid__Pipeline.py
+ python Dataroid__Pipeline.py
 
 ## This script will:
 
